@@ -67,4 +67,5 @@ where gen'F' and bamt<40000;
 
 select cname
 from customer
-where age between 30 and 40 and not bamt<40000; 
+where age between 30 and 40 and not bamt<40000;
+ 
